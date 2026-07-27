@@ -1,4 +1,5 @@
-Hi, I'm Aminu Momodu Audu 👋
+# Hi, I'm Aminu Momodu Audu👋
+
 Data Analyst | Python · SQL · Power BI · FastAPI
 I turn raw, messy data into KPIs, dashboards, and decisions. Most recently, I built a production-grade financial intelligence platform analyzing 92 companies across 12 years of data — end to end, from ETL through machine learning to a fully documented REST API.
 📍 Based in Nigeria — open to remote / UK / international Data Analyst, BI Analyst, and Financial Data Analyst roles.
